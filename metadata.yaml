@@ -1,0 +1,40 @@
+_repo: Miss-Lulu-Bett_10429
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gale, Zona
+    aliases:
+    - Breese, William Llywelyn, Mrs.
+    - Breese, William Lleywelyn, Mrs.
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '3531'
+    url: http://www.gutenberg.org/2009/agents/3531
+    wikipedia: http://en.wikipedia.org/wiki/Zona_Gale
+description: "Miss Lulu Bett is a 1920 novel by American writer Zona Gale, and later\
+  \ adapted for the stage. It was a bestseller at the time of its initial publication,\
+  \ but gradually fell out of favor with changing tastes and social conditions.\n\n\
+  \n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10429'
+  wikidata: Q246436
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Divorced women -- Fiction'
+- !lcsh 'Single women -- Fiction'
+- !lcsh 'Housekeepers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Self-realization -- Fiction'
+- !lcsh 'Feminist fiction'
+- !lcsh 'Middle West -- Fiction'
+- GITenberg
+title: Miss Lulu Bett
+url: http://www.gutenberg.org/ebooks/10429
+wikipedia:
+- https://en.wikisource.org/wiki/Miss_Lulu_Bett_(novel)
+- https://en.wikipedia.org/wiki/Miss_Lulu_Bett_(novel)
