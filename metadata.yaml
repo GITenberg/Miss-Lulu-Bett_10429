@@ -1,5 +1,8 @@
 _repo: Miss-Lulu-Bett_10429
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gale, Zona
@@ -15,6 +18,8 @@ description: "Miss Lulu Bett is a 1920 novel by American writer Zona Gale, and l
   \ adapted for the stage. It was a bestseller at the time of its initial publication,\
   \ but gradually fell out of favor with changing tastes and social conditions.\n\n\
   \n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10429#Miss-Lulu-Bett
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
